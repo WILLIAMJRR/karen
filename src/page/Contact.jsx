@@ -11,14 +11,14 @@ const Contact = () => {
           Bueno dijiste que si por que programe para que el No .no funcionara
           <p>dejame decirte que tomaste la decision correcta</p>
           <p>
-            Quiero que sepas que senti mas en 1 mes que llevo conociendote que
+            Quiero que sepas que senti mas en estos dias  que llevo conociendote que
             en 2 anos con una persona.te quiero mucho princesa yo quiero seamos
             una pareja estable que los problemas que tengamos los sepamos
-            resolver y si te eligo a ti como mi pareja elijo a karen vargas por
+            resolver y si te eligo a ti como mi pareja elijo a gabriela por
             que se que tiene un corazon enorme que necesita amor yo no soy
-            perfecto tengo muchos errores y de seguro voy a necesitr de tu apoyo
-            para corregirlo y crecer juntos yo estoy emoezando de 0 como tu aqui
-            en estados unidos y me encantaria que crecieramos juntos de la mano
+            perfecto tengo muchos errores y de seguro voy a necesitar de tu apoyo
+            para corregirlo y crecer juntos yo estoy empezando de 0 como tu aqui
+            en estados unidos y me encantaria que crecieramos juntos de la mano de dios
             si el barco se hunde yo salto contigo eres una hermosa persona que
             yo aprecio mucho y aunque me da miedo volverme a enamorar lo voy a
             intentar contigo me encanta tus defectos me encantan tus cicatrices
@@ -32,7 +32,7 @@ const Contact = () => {
         <div className="relative h-[1.8rem]">
           <a
             className="absolute bottom-0 right-3 lg:right-14 animate-pulse"
-            href="https://wa.me/56962460426"
+            href="https://wa.me/17209937227"
             target="_blank"
             rel="noopener noreferrer"
           >
